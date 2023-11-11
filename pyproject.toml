@@ -18,7 +18,7 @@ license = "GPL-3.0-only"
 name = "serato-crate"
 readme = "README.md"
 repository = "https://github.com/stephanlensky/python-serato-crates"
-version = "0.0.0"
+version = "0.0.1"
 
 [tool.poetry.dependencies]
 python = "^3.10"

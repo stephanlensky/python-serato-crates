@@ -142,3 +142,6 @@ cython_debug/
 
 # Ruff stuff
 .ruff_cache/
+
+# Local scratch
+testpad.py
